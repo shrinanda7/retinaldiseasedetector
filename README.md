@@ -22,7 +22,7 @@ The backend is designed as a **FastAPI microservice**, which can be accessed via
 ✅ FastAPI REST API for image inference
 ✅ Integrated Gemini-powered detailed disease report generation
 ✅ Future integration: XAI visualization (Grad-CAM, SHAP, LIME)
-✅ Cloud-deployable (Hugging Face, Oracle Always-Free, or Render)
+✅ Cloud-deployable (Hugging Face, Oracle/GCP/AWS or Render)
 
 ---
 
